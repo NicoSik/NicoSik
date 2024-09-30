@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Stock broker system](https://github.com/NicoSik/StockApp)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Javascript**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
