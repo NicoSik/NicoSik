@@ -2,7 +2,7 @@
 
 I'm Nicolai, a master's student in software engineering and systems architecture
 at the University of Oslo. My thesis is on detecting malware hidden in deep
-neural networks — a model's weights can carry a payload much the same way a
+neural networks a model's weights can carry a payload much the same way a
 binary can, and finding it is a stranger problem than it first sounds.
 
 I also teach: TA in Project in Programming (IN2031) and Operating Systems
@@ -14,7 +14,7 @@ finance closely enough to keep wanting tools that don't exist yet.
 
 ### Things I've built
 
-**[Ticker](https://github.com/NicoSik/StockApp)** — a stock watcher and
+**[Ticker](https://github.com/NicoSik/StockApp)** A stock watcher and
 multi-broker portfolio aggregator. Java 17, Javalin, PostgreSQL, and a front end
 with no build step. It pulls holdings from eToro, Nordnet and DNB into a single
 NOK total with live pricing and currency conversion.
@@ -26,24 +26,21 @@ checking the price the export itself states rather than trusting a name match,
 and reconciling every import against the file's own total so a partially read
 file gets rejected instead of quietly being wrong.
 
-**A minimal operating system** in x86 assembly and C — paging, memory
+**A minimal operating system** in x86 assembly and C paging, memory
 management, process scheduling, basic file handling. Written for IN3000, the
 course I now TA.
 
-**[Inspector Chalmers](https://github.com/NicoSik/Chalmers)** — a DHIS2 app for
+**[Inspector Chalmers](https://github.com/NicoSik/Chalmers)** A DHIS2 app for
 digital school inspections in the Gambia, built as a team project. Collection,
 analysis and visualisation of inspection data, with offline support because the
 connection can't be relied on. A prototype from a course, not something running
 in production.
 
-**[A Java-to-Python interpreter](https://github.com/NicoSik/IN2030---Interpret)**
-and a pile of other coursework in C, Java and Python, public mostly because
-earlier me would have liked to read someone else's.
 
 ### Tools I reach for
 
 Python, Java, C, x86 assembly. PyTorch, scikit-learn, pandas, NumPy.
-PostgreSQL, Docker, Linux, Git. React or plain JS when something needs a face.
+PostgreSQL, Docker, Linux, Git. React or plain JS.
 
 ### Otherwise
 
